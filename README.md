@@ -1,7 +1,7 @@
 🚀 My Projects
 Here’s a collection of some of the projects I’ve been working on:
 
-Check-Sum
+Check-Sum\n
 Lucky Car plate Number Finder App
 
 Quiz App
